@@ -1,5 +1,5 @@
 //START-OF-SCRIPT
-//comment0
+//comment1
 timeout(time: 60, unit: 'SECONDS'){
    node{
       properties([
